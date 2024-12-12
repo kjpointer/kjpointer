@@ -10,4 +10,4 @@ Feel free to explore my repositories to find tools, scripts, and resources I’v
 
 [LinkedIn 🔗](https://www.linkedin.com/in/kasey-pointer/) | [Email 📫](mailto:kasey.pointer@outlook.com?subject=[GitHub])
 
-![image](https://github.com/user-attachments/assets/46f0438d-9baf-4cf3-a9f7-e1d068d4c8ff)
+![image](https://github.com/user-attachments/assets/c25688de-2459-4674-a3a0-491b796a795d)
