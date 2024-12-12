@@ -2,7 +2,7 @@
 
 Howdy, I'm Kasey 👋
 
-I am a recent Network Systems Engineering Technology graduate with a specialization in Network Security; who has supported the healthcare sector for 10+ years in various facets. I bring a high attention to detail, solving complex problems while determing root cause to secure businesss operations and manage risk. I am passionate about public safety and protecting critical infrastructures, organizations, and individual lives. The opportunity to make a tangible impact on society drives me to continuous learn.
+I am a recent Network Systems Engineering Technology graduate with a specialization in Network Security; who has supported the healthcare sector for 10+ years in various facets. I bring a high attention to detail, solving complex problems while determining root cause to secure businesss operations and manage risk. I am passionate about public safety and protecting critical infrastructures, organizations, and individual lives. The opportunity to make a tangible impact on society drives me to continuously learn and grow.
 
 Network security is not just about securing data or networks— it's about safeguarding the very infrastructure that modern society relies on. With the ever growing reliance on digital systems in every aspect of our lives and the rise of data breaches and cyberattacks, we have a duty to ensure that technology serves people safely and ethically.
 
